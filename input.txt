@@ -1,0 +1,31 @@
+8
+git commit 3
+main 2 0
+0 import data structure
+1 build tree
+function 2 0
+0 def build tree
+1 return 1
+library 2 0
+0 def print transcript
+1 print zero
+git commit 1
+library 2 1
+2 print fail
+3 return 0
+1
+git open library
+git switch 1
+git commit 2
+main 3 1
+0 import library
+1 import function
+4 print finish
+2
+function 2 1
+1 print this homework is so easy
+2 print chatgpt bless my score
+3
+git open main
+git switch 1
+git open function
